@@ -84,6 +84,8 @@ That's it! No installation is required.
 * Better styling
 * Multiple versions and improvements
 
+## New Features Will be Introduced Every Month...
+
 ---
 
 ## 🎯 Purpose of this Project
@@ -108,3 +110,4 @@ This project is open source and available under the MIT License.
 ⭐ Feel free to explore the repository and provide suggestions for future improvements.
 
 # [Author(Click Me !)](https://github.com/Shreyansh-dev180)
+
