@@ -97,7 +97,7 @@ This project was created as a learning exercise to understand:
 * File Handling with `QFile`
 * `QTextStream`
 * `QFileDialog`
-* Desktop application development using C++
+* Desktop application development using C++ and Qt creator
 
 ---
 
